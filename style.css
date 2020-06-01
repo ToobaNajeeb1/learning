@@ -1,0 +1,729 @@
+.a1{
+    color:black;
+    background-color: yellow;
+}
+.nav-link{
+    color:  black;
+    font-size: 17px;
+    font-style: bold;
+   // padding-bottom: 5px;
+   text-indent:30px;
+   //text-align:center;
+}
+.dropdown-menu a:hover{
+    color:black;
+    background-color:white;
+    border-radius: 10px;
+   // text-align: center;
+    width: auto;
+    display:block;
+}
+
+.nav-link a:hover:{
+    text-decoration: underline;
+
+}
+.carousel-inner img{
+    width: 100%;
+    height: 430px;
+}
+.carousel-control-prev-icon{
+    color: black;
+}
+.carousel-control-next-icon{
+    color: black;
+}
+.a9{
+    width: auto;
+    height: 50px;
+    background-color: brown;
+}
+.logo{
+    width: 450px;
+    height: 130px;
+}
+.container{
+    width: auto;}
+    .carousel-item{
+        animation-duration: 4s;
+    }
+.a3 {
+     text-align: center;
+     //border-bottom:5px;
+     text-decoration:underline;
+     max-top :5px;
+}
+.a8{
+    text-align: center;
+}
+.b1{
+    text-align: center;
+   // border-bottom: 5px;
+
+}
+.n1{
+    width:1000px;
+    height:400px;
+    margin-left:50px;
+}
+
+.col:hover{
+        transform: scale(1.0);
+        transition: transform .2s;
+}
+.b3{
+    text-align: center;
+    text-decoration:underline;
+}
+.b41{
+    text-align: center;
+    text-decoration:underline;
+}
+.nav-link{
+    color: black;
+    font-size: 15px;
+    font-weight: 800;
+}
+.a51{
+    text-align: center;
+}
+.a10{
+    margin-top: 14px;
+   text-align: center;
+  box-shadow:5px;
+}
+.t11 p{
+    margin-top: 100px;
+}
+.n5{
+    width:500px;
+    height:450px; 
+}
+.menu-bar .navbar-toggler{
+    background-color:black;
+   color: cornsilk;
+   border:6px;
+}
+.nav-link:hover{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    width: auto;
+   // display:block;
+    
+}
+.t5 h1{
+    text-align: center;
+}
+.t6 h1{
+    text-align: center;
+}
+.t13{
+    margin-top: 70px;
+}
+.t12{
+    margin-top: 100px;
+}
+.f1 p{
+    margin-top: 100px;
+}
+.z1{
+    margin-top: 100px;
+}
+/*-----------------------------------------------------casting stair railing-----------------------*/
+
+
+.k1{
+    margin-left:500px;
+   // background-color: green;
+   
+}
+.k1 h5{
+    font-size: 35px;
+}
+.k2{
+    margin-left: 70px;
+    width: 1200px;
+    height: 450px;
+}
+.k3{
+    width:240px;
+    height:400px;
+}
+.k4{
+    width:250px;
+    height: 400px;
+}
+.k5{
+    width:250px;
+    height: 400px;
+}
+
+.k6{
+    width:240px;
+    height: 400px;
+}
+ /*-------------------------------------------------UPVC sliding window-----------------------------*/
+ .n2{
+     width: 1100px;
+     height: 500px;
+ }
+
+
+
+
+ /*-------------------------------------------------UPVC sliding window-----------------------------*/
+ /*-------------------------------------------------footer-----------------------------*/
+ 
+ 
+ .abu{
+     width: 100px;
+     height: 100px;
+     background-color: tomato;
+ }
+ .list-unstyled{
+     margin-top: 50px;
+ }
+ .hu {
+          color: grey !important;
+          font-size: large !important;
+ }
+ .page-footer{
+          margin-top: 50px;
+    width: auto;
+    
+
+}
+.fa-facebook{
+    font-size: 25px !important;
+    color:white !important;
+  // background-color: blue !important;
+  margin-top: 10px !important;
+   
+}
+.ds{
+    background-color: blue;
+    width: 40px;
+    height: 35px;
+    border-radius: 10px;
+ 
+text-align: center !important;
+   
+}
+
+.fa-envelope{
+    font-size: 25px !important;
+    color:white !important;
+  // background-color: blue !important;
+  margin-top: 5px !important;
+   
+}
+.de{
+    background-color:red;
+    width: 40px;
+    height: 35px;
+    border-radius: 10px;
+text-align: center !important;
+   
+}
+.fa-whatsapp{
+    font-size: 25px !important;
+    color:white !important;
+  // background-color: blue !important;
+  margin-top: 5px !important;
+   
+}
+.da{
+    background-color: green;
+    width: 40px;
+    height: 35px;
+    border-radius: 10px;
+text-align: center !important;
+   
+
+}
+.jy{
+    color: grey;
+}
+
+.vs{
+    color: white;
+}
+.page-footer{
+    color: white !important;
+}
+.text-uppercase{
+    color: black;
+    
+}
+.gt{
+    text-decoration: underline;
+  text-decoration-color:green !important;
+
+}
+.hu{
+    font-size: 200px;
+}
+/*-------------------------------------------------footer-----------------------------*/
+
+
+ /*-------------------------------------------------index-----------------------------*/
+ .dj{
+    width: 300px;
+    height: 150px;
+}
+.list-unstyled {
+    width: 170px;
+    height: 50px;
+     margin-top: 50px;
+    margin-left: 200px;
+}
+
+ .xx{
+     background-color: cornflowerblue;
+     width: 670px;
+     height: 300px;
+ }
+
+ .fa-facebook{
+    font-size: 25px !important;
+    color:black !important;
+  // background-color: blue !important;
+  margin-top: 10px !important;
+   
+}
+.ds{
+    background-color:white;
+    width: 40px;
+    height: 35px;
+    border-radius: 10px;
+ 
+text-align: center !important;
+   
+}
+
+.fa-envelope{
+    font-size: 25px !important;
+    color:red !important;
+  // background-color: blue !important;
+  margin-top: 5px !important;
+   
+}
+.de{
+    background-color:white;
+    width: 40px;
+    height: 35px;
+    border-radius: 10px;
+text-align: center !important;
+   
+}
+.fa-whatsapp{
+    font-size: 25px !important;
+    color:green !important;
+  // background-color: blue !important;
+  margin-top: 5px !important;
+   
+}
+.da{
+    background-color: white;
+    width: 40px;
+    height: 35px;
+    border-radius: 10px;
+text-align: center !important;
+   
+
+}
+
+ .ll{
+     //background-color: aqua !important;
+     width: 180px !important;
+     
+ }
+ .ff{
+     font-size: 30px !important;
+ }
+ .fff{
+    font-size: 30px !important;
+    margin-top: 40px;
+}
+
+ .sai{
+     margin-top: 30px;
+ }
+ .by{
+     margin-top: 30px;
+ }
+ .rt{
+     font-size: 20px !important;
+ }
+ .fs{
+     margin-top: 50px;
+ }
+ .re{
+     margin-top: 40px;
+ }
+ .am{
+     height: 300px;
+     width: 300px;
+     
+ }
+ .ami{
+    height: 300px;
+    width: 300px;
+    
+}
+
+
+ .co{
+     margin-top: 40px;
+ }
+ .g1{
+     width: auto;
+     height: 400px;
+ }
+ .g2{
+    width:300px;
+    height: 400px;
+}
+.g3{
+    width: 300px;
+    height: 400px;
+}
+.g4{
+    width: 300px;
+    height: 400px;
+    margin-top: 10px;
+}
+.g5{
+   width:300px;
+   height: 400px;
+   margin-top: 10px;
+}
+.g6{
+   width: 300px;
+   height: 400px;
+   margin-top: 10px;
+}
+.g7{  
+    margin-left: 70px;
+    font-weight: 800;
+}
+.gb{
+  //  background-color: purple;
+    margin-left: 400px;
+}
+
+ /*-------------------------------------------------index-----------------------------*/
+
+ 
+
+  /*-------------------------------------------------Cubical shower-----------------------------*/
+  .b1 h1{
+      text-decoration: underline !important;
+      margin-top: 5px;
+
+  }
+ .col{
+     margin-top: 10px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ .t2{
+     margin-top: 20px;
+ }
+ .t3{
+    margin-top: 30px;
+}
+.t4{
+    margin-top: 30px;
+}
+.n2{
+    margin-top: 30px;
+}
+
+
+
+  .s1{
+   width:250px;
+  height:400px;
+ }
+ .s2{
+    width:260px; 
+    height:400px;
+ }
+ .s3{
+    width:250px;
+   height:400px;
+  }
+  .s4{
+     width:260px; 
+     height:400px;
+  }
+  .s5{
+    width:250px;
+   height:400px;
+  }
+  .s6{
+     width:260px; 
+     height:400px;
+  }
+  .s7{
+     width:250px;
+    height:400px;
+   }
+   .s8{
+      width:260px; 
+      height:400px;
+   }
+   .s9{
+    width:250px;
+   height:400px;
+  }
+  .s10{
+     width:260px; 
+     height:400px;
+  }
+  .s11{
+    width:250px;
+   height:400px;
+  }
+  .s12{
+     width:260px; 
+     height:400px;
+  }
+  .s13{
+    width:250px;
+   height:400px;
+  }
+  .s14{
+     width:250px; 
+     height:400px;
+  }
+  .s15{
+     width:250px;
+    height:400px;
+   }
+   .s16{
+      width:260px; 
+      height:400px;
+   }
+  
+ 
+ 
+  
+/*-------------------------------------------------contact us-----------------------------*/
+.full{
+    width: 300px;
+    height: 300px;
+  //  background-color: aqua;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+/*-------------------------------------------------contact us-----------------------------*/
+             
+
+
+@media only screen and (max-width: 600px){
+    .full{
+        width: 150px;
+        height: 450px;
+       // background-color: aqua;
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+    
+    .hu {
+        color: grey !important;
+        font-size: large !important;
+        margin-left: 90px !important;
+}
+
+    .list-unstyled {
+        width: 170px;
+        height: 50px;
+         margin-top: 50px;
+        margin-left: 1px;
+    }
+    
+    .dj{
+        width: 200px;
+        height: 150px;
+    }
+    .am{
+        height: 300px;
+        width: 150px;
+        
+    }
+    .ami{
+        height: 300px;
+        width: 150px;
+        
+    }
+    
+    .xx{
+        background-color: cornflowerblue;
+        width: 200px;
+        height: 580px;
+    }
+   
+    .gb{
+           margin-left: 250px;
+           background-color: white;
+  
+   }
+   
+    .ll{
+        //background-color: aqua !important;
+        width: 180px !important;
+       // height: 50px;
+      margin-left:260px;
+        
+    }
+    
+    .logo{
+        width: 300px;
+        height: 150px;
+    }
+    .t1 .col{
+        width: 200px;
+    }
+    .t2 .col{
+        width:200px;
+        height: 400px;
+
+    }
+    
+
+    .t4 .col{
+        width:200px;
+        height: 400px;
+    }
+    .n2 .col{
+        width:200px;
+        height: 400px;
+    }
+    
+    .t2.col{
+        transform: none;
+        transition: transform .2s;
+}
+.t3 .col{
+    width:200px;
+    height: 400px;
+}
+.t11 p{
+    margin-top: 1px;
+}
+
+.t13{
+    margin-top: 10px;
+
+}
+.logo1{
+    width: 500px;
+    height: 100px;
+}
+ .col p{
+    margin-top: 1px;
+}
+.logo1{
+    width: 50px;
+    height: 150px;
+}
+.f1 p{
+    width: 300px;
+    height:  150px;
+}
+
+.n1{
+    width:400px;
+    height:400px;
+}
+.n5{
+    width:280px;
+    height:450px; 
+}
+.k1{
+    margin-left:100px;
+   // background-color: green;
+   
+}
+
+.k1 h5{
+    font-size: 20px;
+}
+.k2{
+    margin-left: 15px;
+    width: 450px;
+    height: 450px;
+}
+.s2 , .s4 , .s6, .s8 ,.s10 ,.s10 ,.s12 ,.s14 ,.s16{
+    width:210px; 
+    height:400px;
+ }
+ .s1 , .s3 , .s5, .s7 ,.s9 ,.s11 ,.s13 ,.s15{
+    width:230px;
+   height:400px;
+  }
+  .co{
+    margin-top: 40px;
+    text-align: center;
+}
+.w3-circle{
+    height: 350px;
+    width: 150px;
+    
+}
+.fa-facebook{
+    font-size: 25px !important;
+    color:white !important;
+  // background-color: blue !important;
+  margin-top: 10px !important;
+   
+}
+.ds{
+    background-color: blue;
+    width: 30px;
+    height: 35px;
+    border-radius: 10px;
+ 
+text-align: center !important;
+   
+}
+
+.fa-envelope{
+    font-size: 25px !important;
+    color:white !important;
+  // background-color: blue !important;
+  margin-top: 5px !important;
+   
+}
+.de{
+    background-color:red;
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+text-align: center !important;
+   
+}
+.fa-whatsapp{
+    font-size: 25px !important;
+    color:white !important;
+  // background-color: blue !important;
+  margin-top: 5px !important;
+   
+}
+.da{
+    background-color: green;
+    width: 30px;
+    height: 35px;
+    border-radius: 10px;
+text-align: center !important;
+   
+
+}
+
+
+
+}
